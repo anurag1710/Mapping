@@ -1,2 +1,2 @@
 # Mapping
-It displays all the power plants in India with their names in a map. I've used Folium maps to for this mapping. It also has an added feature which acts a filter to show only certain power plants. 
+It displays all the power plants in India with their names in a map. I've used Folium maps for this mapping. It also has an added feature which acts a filter to show only certain power plants. It uses CSV for calculating the coordinates of each plant and then it places a marker on each coordinate with its name. It creats an .HTML file file which automatically updates after making any changes in the program.
